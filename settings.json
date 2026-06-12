@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "BabluBOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Khatna.aternos.me",
     "port": 63787,
-    "version": "1.21.1",
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
